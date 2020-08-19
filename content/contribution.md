@@ -11,3 +11,5 @@ Both the content and source code of the wiki are stored in a GitHub repository. 
 # How to contribute
 
 Content of the Wiki is written in Markdown format. To update content, you will add or modify markdown files on the GitHub and commit the change. The website then would be built automatically. 
+
+## Adding an article
