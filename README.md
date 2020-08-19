@@ -4,5 +4,3 @@ This Wiki contains references, templates, and other any other information necess
 
 
 Based on the gatsby-gitbook-starter library by Hasura.io
-![gatsby-gitbook-starter](https://graphql-engine-cdn.hasura.io/learn-hasura/gatsby-gitbook-starter/assets/documentation_app_blog.png)
-
