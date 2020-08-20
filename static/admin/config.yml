@@ -1,0 +1,34 @@
+backend:
+  name: github
+  repo: CREST-Adelaide/CREST-Wiki
+
+site_url: https://wiki.nk-tran.com
+
+media_folder: "static/assets"
+public_folder: "/assets"
+
+collections:
+  - name: "tutorials"
+    label: "Technical Tutorials"
+    folder: "content/tutorials"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "projects"
+    label: "Projects"
+    folder: "content/projects"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "top-level"
+    label: "Top Level Content"
+    folder: "content"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
