@@ -1,6 +1,3 @@
----
-Title: CREST Friday Meeting Agenda
----
 
 ## Friday Meeting Agenda
 
