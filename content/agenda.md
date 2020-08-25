@@ -1,7 +1,9 @@
 ---
-title: CREST Meeting Agenda
+Title: CREST Friday Meeting Agenda
 ---
 
-## Friday Meeting
+## Friday Meeting Agenda
 
-21/8/2020: Aufeef paper
+Please update the Google Sheet link below for creating a Friday meeting agenda:
+
+https://docs.google.com/spreadsheets/d/1ntV1UX0RG7BQRRqz8paZ61dZfIFyVKRt1uOy2hrJuIo/edit#gid=0 
